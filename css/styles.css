@@ -1,23 +1,26 @@
 /* Acrobat */
+
+/*
+
 .marilyn img {
-  padding: 0.5%;
-  /* height:466px;
+   height:466px;
   width:600px;
-  position: relative;*/
+  position: relative;
 }
 
+*/
 
 .jm {
   border: solid #431B1C 3px;
   background-color:#FFFEE8;
-  font-family: satisfy;
+  font-family:satisfy;
   font-weight: bolder;
-  border-style:double;
+  border-style:groove;
 }
 
-.jm h1{
+/*.jm h1{
   color:#431B1C;
-}
+}*/
 
 .backdrop {
   background-color: #DEAC9E;
