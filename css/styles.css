@@ -1,0 +1,49 @@
+/* Acrobat */
+.marilyn img {
+  padding: 0.5%;
+  /* height:466px;
+  width:600px;
+  position: relative;*/
+}
+
+
+.jm {
+  border: solid #431B1C 3px;
+  background-color:#FFFEE8;
+  font-family: satisfy;
+  font-weight: bolder;
+  border-style:double;
+}
+
+.jm h1{
+  color:#431B1C;
+}
+
+.backdrop {
+  background-color: #DEAC9E;
+}
+
+
+ /* media queries */
+
+ /*@media only screen and (min-width:481px) {
+   .col {
+      float:left;
+   }
+   .main{
+     width:65.9574446808511%;
+   }
+   .secondary {
+     width:31.914893612201%;
+     margin-left: 2.127659574468%;
+   }
+ }
+ @media only screen and (max-width:480px) {
+body {
+     float:left;
+     background-color: magenta;
+   }
+
+img {
+  width: 31.914893612201%;
+}
